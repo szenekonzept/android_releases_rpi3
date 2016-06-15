@@ -1,3 +1,7 @@
+Download
+--------
++ Download latest release from here: https://github.com/Android-RPi3/android_releases_rpi3/releases
+
 How to install
 --------------
 ```
