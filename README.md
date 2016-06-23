@@ -9,7 +9,7 @@ $ tar xvfz android_rpi3_*.tar.gz
 $ cd rpi3
 $ ./install.sh -p /dev/sdX
 ```
-+ Replace **X** with proper device number.
++ Replace sd**X** with proper device number.
 
 #### Community forum:
 + https://groups.google.com/forum/#!forum/android-rpi
