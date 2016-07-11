@@ -5,9 +5,8 @@ Download
 How to install
 --------------
 ```
-$ tar xvfz android_rpi3_*.tar.gz
-$ cd rpi3
-$ ./install.sh -p /dev/sdX
+$ xz -d file_name.img.xz
+$ sudo dd if=file_name.img of=/dev/sdX
 ```
 + Replace sd**X** with proper device number.
 
