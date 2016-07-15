@@ -6,9 +6,10 @@ How to install
 --------------
 ```
 $ xz -d file_name.img.xz
-$ sudo dd if=file_name.img of=/dev/sdX
+$ sudo dd if=file_name.img of=/dev/sdX bs=16M
 ```
 + Replace sd**X** with proper device number.
++ Use at least a 4 GB **class 10** MicroSD card.
 
 #### Community forum:
 + https://groups.google.com/forum/#!forum/android-rpi
